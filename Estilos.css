@@ -1,0 +1,34 @@
+.titulo{
+    background-color: rgb(224, 231, 124);
+    text-align: center;
+    margin: 20px;
+}
+#contenidotitulo{background-color: antiquewhite;}
+h1{color: rgb(235, 195, 142);}
+#cotenidoTitulo{background:black;}
+h1{color:white;}
+.menuPrincipal{
+    height: 150px;
+    padding: 17px;
+    margin: 20px;
+    }
+    #contenido{background:rgb(161, 219, 94);}
+    a{color: rgb(12, 4, 4);}
+.titulo2{
+    background-color:rgb(246, 255, 125);
+    text-align: center;
+    margin: 20px;
+}
+#cotenidoTitulo{background:rgb(246, 255, 125);}
+h2{color:rgb(0, 0, 0);}
+.nombre{
+    background-color: rgb(244, 247, 106);
+    text-align: center;
+    margin: 20px;
+}
+#cotenidoTitulo{background:black;}
+h1{color:rgb(255, 0, 170);}
+a{text-decoration:none;}
+.contenidotexto{
+text-align:center
+}
