@@ -15,20 +15,14 @@ h1{color:white;}
     #contenido{background:rgb(161, 219, 94);}
     a{color: rgb(12, 4, 4);}
 .titulo2{
-    background-color:rgb(246, 255, 125);
-    text-align: center;
+    background-color:rgb(45, 194, 144);
     margin: 20px;
 }
-#cotenidoTitulo{background:rgb(246, 255, 125);}
-h2{color:rgb(0, 0, 0);}
-.nombre{
-    background-color: rgb(244, 247, 106);
-    text-align: center;
-    margin: 20px;
-}
-#cotenidoTitulo{background:black;}
-h1{color:rgb(255, 0, 170);}
-a{text-decoration:none;}
-.contenidotexto{
-text-align:center
-}
+    #cotenidoTitulo{background:rgb(75, 207, 219);}
+    h2{color:rgb(0, 0, 0);}
+.video{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 125vh;
+    }
